@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="구분">
+        <item>시 전체</item>
+        <item>1km 반경</item>
+        <item>500m 반경</item>
+        <item>100m 반경</item>
+        <item>가장 가까운 화장실</item>
+        <item>5분 이내의 거리</item>
+        <item>위치 지정하기</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "825600680453",
+    "firebase_url": "https://zolzolzol-3d791.firebaseio.com",
+    "project_id": "zolzolzol-3d791",
+    "storage_bucket": "zolzolzol-3d791.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825600680453:android:309172a97f84b6f6c7b26c",
+        "android_client_info": {
+          "package_name": "wonyong.by.zolzolzol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825600680453-ub384mfedrnc3jkvkmi3vqdt6uid13en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "wonyong.by.zolzolzol",
+            "certificate_hash": "be64146f214fc8af427b0bea5725bd792618016f"
+          }
+        },
+        {
+          "client_id": "825600680453-mekg6o21rk6gs7gbe0ss3a4qg4vadbr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBz5t7uw_soQtrqSqu8IcucbVBVHr67oFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825600680453-mekg6o21rk6gs7gbe0ss3a4qg4vadbr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
